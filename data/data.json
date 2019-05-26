@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "catName": "Siberian Tiger",
+    "image": "P.t.altaica_Tomak_Male.jpg",
+    "weight": "230",
+    "cuteFactor": "3",
+    "headAndBodyLength": "512 GB SSD",
+    "price": "10,000",
+    "description": "The Siberian tiger (Panthera tigris tigris) is a tiger population in the Far East, particularly the Russian Far East and Northeast China.[3] This population inhabits mainly the Sikhote Alin mountain region in southwest Primorye Province in the Russian Far East. The Siberian tiger once ranged throughout Korea, north China, Russian Far East, and eastern Mongolia. In 2005, there were 331–393 adult and subadult Siberian tigers in this region, with a breeding adult population of about 250 individuals. The population had been stable for more than a decade due to intensive conservation efforts, but partial surveys conducted after 2005 indicate that the Russian tiger population was declining.[1] An initial census held in 2015 indicated that the Siberian tiger population had increased to 480–540 individuals in the Russian Far East, including 100 cubs.[4][5] This was followed up by a more detailed census which revealed there was a total population of 562 wild Siberian tigers in Russia."
+  },
+  {
+    "id": "1",
+    "catName": "Lion",
+    "image": "1-lion-charge-gc590a.jpg",
+    "weight": "190",
+    "cuteFactor": "2",
+    "headAndBodyLength": "1TB GB SSD",
+    "price": "8,000",
+    "description": "The lion (Panthera leo) is a species in the family Felidae; it is a muscular, deep-chested cat with a short, rounded head, a reduced neck and round ears, and a hairy tuft at the end of its tail. The lion is sexually dimorphic; males are larger than females with a typical weight range of 150 to 250 kg (330 to 550 lb) for males and 120 to 182 kg (265 to 400 lb) for females. Male lions have a prominent mane, which is the most recognizable feature of the species. A lion pride consists of a few adult males, related females and cubs. Groups of female lions typically hunt together, preying mostly on large ungulates. The species is an apex and keystone predator, although they scavenge when opportunities occur. Some lions have been known to hunt humans, although the species typically does not."
+  },
+  {
+    "id": "2",
+    "catName": "Cheetah",
+    "image": "cheetah_16x9.jpg",
+    "weight": "70",
+    "cuteFactor": "7.5",
+    "headAndBodyLength": "512 GB SSD",
+    "price": "3,000",
+    "description": "The cheetah (Acinonyx jubatus; /ˈtʃiːtə/) is a large cat of the subfamily Felinae that occurs in North, Southern and East Africa, and a few localities in Iran. It inhabits a variety of mostly arid habitats like dry forests, scrub forests, and savannahs. The species is IUCN Red Listed as Vulnerable, as it suffered a substantial decline in its historic range in the 20th century due to habitat loss, poaching for the illegal pet trade, and conflict with humans. By 2016, the global cheetah population has been estimated at approximately 7,100 individuals in the wild. Several African countries have taken steps to improve cheetah conservation measures."
+  },
+  {
+    "id": "3",
+    "catName": "House Cat",
+    "image": "breading-cats-Q016.jpg",
+    "weight": "5",
+    "cuteFactor": "10",
+    "headAndBodyLength": "512 GB SSD",
+    "price": "100",
+    "description": "The cat (Felis catus) is a small carnivorous mammal. It is the only domesticated species in the family Felidae and often referred to as the domestic cat to distinguish it from wild members of the family.[4] The cat is either a house cat, kept as a pet, or a feral cat, freely ranging and avoiding human contact.[5] A house cat is valued by humans for companionship and for its ability to hunt rodents. About 60 cat breeds are recognized by various cat registries."
+  },
+  {
+    "id": "4",
+    "catName": "Jaguar",
+    "image": "Jaguar_(Panthera_onca_palustris)_female_Piquiri_River.jpg",
+    "weight": "80",
+    "cuteFactor": "6",
+    "headAndBodyLength": "256 GB SSD",
+    "price": "2,500",
+    "description": "The jaguar (Panthera onca) is a wild cat species and the only extant member of the genus Panthera native to the Americas. The jaguar's present range extends from Southwestern United States and Mexico in North America, across much of Central America, and south to Paraguay and northern Argentina in South America. Though there are single cats now living within the Western United States, the species has largely been extirpated from the United States since the early 20th century. It is listed as Near Threatened on the IUCN Red List; and its numbers are declining. Threats include loss and fragmentation of habitat."
+  },
+  {
+    "id": "5",
+    "catName": "Snow Leopard",
+    "image": "Osama-Muhammad-Snow-Leopard-Naltar-featured-828x360.jpg",
+    "weight": "45",
+    "cuteFactor": "7",
+    "headAndBodyLength": "1.6m",
+    "price": "5,000",
+    "description": "The snow leopard (Panthera uncia), also known as the ounce, is a large cat native to the mountain ranges of Central and South Asia. It is listed as Vulnerable on the IUCN Red List because the global population is estimated to number less than 10,000 mature individuals and decline about 10% until 2040. It is threatened by poaching and habitat destruction following infrastructural developments.[1] It inhabits alpine and subalpine zones at elevations from 3,000 to 4,500 m (9,800 to 14,800 ft), ranging from eastern Afghanistan to Mongolia and western China. In the northern range countries, it also occurs at lower elevations."
+  }
+]
